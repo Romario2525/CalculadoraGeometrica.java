@@ -1,30 +1,91 @@
-# Calculadora Geométrica
+📐 Calculadora Geométrica
+Este proyecto es una aplicación de línea de comandos desarrollada en Java que permite calcular el área o el perímetro de varias figuras geométricas de forma interactiva.
 
-Este proyecto es una aplicación de línea de comandos en Java que permite calcular el **área** y el **perímetro** de diversas figuras geométricas.
+🚀 Funcionalidades
+Figuras disponibles:
 
-## Funcionalidades
-- Círculo
-- Cuadrado
-- Triángulo
-- Rectángulo
-- Pentágono
+Círculo
 
-Permite calcular:
-- Área
-- Perímetro
+Cuadrado
 
-## Requisitos
-- Java 8 o superior instalado.
+Triángulo
 
-## Cómo ejecutar
+Rectángulo
 
-1. Compilar:
-   ```bash
-   javac CalculadoraGeometrica.java
+Pentágono (regular)
 
-    Bienvenido a la Calculadora Geométrica
+Operaciones disponibles:
+
+Cálculo de Área
+
+Cálculo de Perímetro
+
+🛠️ Requisitos
+Tener instalado Java JDK versión 8 o superior.
+
+Tener un compilador de Java o un IDE como IntelliJ IDEA, Eclipse o VS Code.
+
+📥 Instalación y Ejecución
+Clonar o descargar este repositorio:
+
+bash
+Copy
+Edit
+git clone https://github.com/tu-usuario/CalculadoraGeometrica.git
+(o descargar el ZIP y extraerlo)
+
+Compilar el archivo Java:
+
+Desde la terminal, en la carpeta del proyecto:
+
+bash
+Copy
+Edit
+javac CalculadoraGeometrica.java
+Ejecutar el programa:
+
+bash
+Copy
+Edit
+java CalculadoraGeometrica
+🎯 Ejemplo de uso
+bash
+Copy
+Edit
+Bienvenido a la Calculadora Geométrica
+--------------------------------------
 Seleccione una figura:
 1. Círculo
 2. Cuadrado
-...
+3. Triángulo
+4. Rectángulo
+5. Pentágono
+Opción: 2
+
+Seleccione una operación:
+1. Área
+2. Perímetro
+Opción: 1
+
+Ingrese el lado del cuadrado: 5
+
+Área del cuadrado: 25.0
+📄 Estructura del proyecto
+bash
+Copy
+Edit
+CalculadoraGeometrica/
+│
+├── CalculadoraGeometrica.java   # Código fuente principal
+└── README.md                    # Documentación del proyecto
+✅ Consideraciones
+El pentágono tratado es un pentágono regular (todos sus lados y ángulos son iguales).
+
+El programa valida que la opción de figura u operación ingresada sea válida (aunque mínima validación).
+
+Se asume que el usuario ingresa datos numéricos correctos.
+
+✏️ Autor
+Nombre:Romario Ramirez
+
 
