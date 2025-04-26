@@ -21,3 +21,10 @@ Permite calcular:
 1. Compilar:
    ```bash
    javac CalculadoraGeometrica.java
+
+    Bienvenido a la Calculadora Geométrica
+Seleccione una figura:
+1. Círculo
+2. Cuadrado
+...
+
