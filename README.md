@@ -20,22 +20,6 @@ Cálculo de Área
 
 Cálculo de Perímetro
 
-🛠️ Requisitos
-Tener instalado Java JDK versión 8 o superior.
-
-Tener un compilador de Java o un IDE como IntelliJ IDEA, Eclipse o VS Code.
-
-📥 Instalación y Ejecución
-Clonar o descargar este repositorio:
-
-bash
-Copy
-Edit
-git clone https://github.com/Romario2525/CalculadoraGeometrica.git
-(o descargar el ZIP y extraerlo)
-
-Compilar el archivo Java:
-
 Desde la terminal, en la carpeta del proyecto:
 
 bash
