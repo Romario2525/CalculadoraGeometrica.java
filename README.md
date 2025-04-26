@@ -31,7 +31,7 @@ Clonar o descargar este repositorio:
 bash
 Copy
 Edit
-git clone https://github.com/tu-usuario/CalculadoraGeometrica.git
+git clone https://github.com/Romario2525/CalculadoraGeometrica.git
 (o descargar el ZIP y extraerlo)
 
 Compilar el archivo Java:
